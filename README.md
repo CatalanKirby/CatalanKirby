@@ -31,6 +31,6 @@
 
 [![Discord](https://img.shields.io/twitter/url?color=7289da&label=Discord&logo=discord&logoColor=7289da&style=flat-square&url=https%3A%2F%2Fdiscord.com%3A%2F%2)](https://discord.com/users/527057273219186698)
 [![Twitter](https://img.shields.io/twitter/url?color=1da1f2&label=Twitter&logo=twitter&logoColor=1da1f2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/Catalan_Kirby)
-[![TikTok](https://img.shields.io/twitter/url?color=1ed760&label=TikTok&logo=tiktok&logoColor=ee1d52&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.tiktok.com/@catalan_kirby)
+[![TikTok](https://img.shields.io/twitter/url?color=ee1d52&label=TikTok&logo=tiktok&logoColor=ee1d52&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.tiktok.com/@catalan_kirby)
 [![Steam](https://img.shields.io/twitter/url?color=ffffff&label=Steam&logo=steam&logoColor=ffffff&style=flat-square&url=https%3A%2F%2Fdiscord.com%3A%2F%2)](https://steamcommunity.com/id/catalan_kirby/)
 [![Spotify](https://img.shields.io/twitter/url?color=1ed760&label=Spotify&logo=spotify&logoColor=1ed760&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://open.spotify.com/user/31lhlky5jdmtb744dep64mem6wty)
